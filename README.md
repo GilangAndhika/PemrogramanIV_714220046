@@ -5,4 +5,4 @@ Tugas Matakuliah Pemrograman IV
 ```flutter clean```
 
 - How to run it back:
-```flutter get pub```
+```flutter pub get```
