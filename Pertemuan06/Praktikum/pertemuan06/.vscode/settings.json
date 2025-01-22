@@ -1,0 +1,5 @@
+{
+    "java.gradle.buildServer.enabled": "off",
+    "gradle.javaDebug.cleanOutput": true,
+    "java.dependency.syncWithFolderExplorer": false
+}
